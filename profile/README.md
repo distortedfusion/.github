@@ -1,4 +1,8 @@
-<p align="center"><a href="https://distortedfusion.com" target="_blank"><img src="https://distortedfusion.test/medias/e78c46508f5fb5073e0b9325203a4d4f.jpg" width="400"></a></p>
+<p align="center">
+    <a href="https://distortedfusion.com" target="_blank">
+        <img src="https://distortedfusion.com/medias/5368c0896128f295ca9c59766dbeb700.jpg" width="1280" alt="Distorted Fusion">
+    </a>
+</p>
 
 
 ## About Distorted Fusion
