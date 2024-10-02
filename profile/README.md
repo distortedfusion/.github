@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://distortedfusion.com" target="_blank">
-        <img src="https://distortedfusion.com/medias/5368c0896128f295ca9c59766dbeb700.jpg" width="1280" alt="Distorted Fusion">
+        <img src="https://distortedfusion.com/medias/ba9fb11a2aa301c841a9a569c40333b1.jpg" width="1280" alt="Distorted Fusion">
     </a>
 </p>
 
